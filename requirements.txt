@@ -1,6 +1,6 @@
 selenium~=4.30.0
 trio-websocket~=0.12.2
-pip~=23.2.1
+pip~=25.1
 attrs~=25.3.0
 PySocks~=1.7.1
 pytest~=8.3.5
