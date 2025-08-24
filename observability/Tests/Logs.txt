@@ -1,0 +1,1282 @@
+####################Logs -check kubernetes-🕒 Last 12h-🔽 All Levels-All Sources####################
+
+####################Logs -Mule test server-🕒 Last 12h-🔽 All Levels-All Sources####################
+
+Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...####################Logs -Mule test server-🕒 Last 12h-🔽 All Levels-All Sources####################
+
+Time Stamp
+2025-08-01T10:51:57.367229612ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Trace:Time Stamp
+2025-08-01T10:51:57.367224346ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Message : "Cannot coerce String (v3)...Time Stamp
+2025-08-01T10:51:57.367235883ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+FlowStack : at get-car-by-id-flow(get-...Time Stamp
+Source:
+level:
+UNKNOWNMessage:
+Error type : MULE:EXPRESSIONTime Stamp
+2025-08-01T10:51:57.367233491ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Element DSL : <set-payload value="#[( ...Time Stamp
+2025-08-01T10:51:57.367232236ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Element : get-car-by-id-flow/process...Time Stamp
+2025-08-01T10:51:57.367226963ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+1| ( [ {'id': 1, 'make...Time Stamp
+2025-08-01T10:51:57.367239448ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+**************************************************...Time Stamp
+2025-08-01T10:51:57.367240701ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Time Stamp
+2025-08-01T10:51:57.367230854ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+at anonymous::main (line: 1, column: 245)" evalu...Time Stamp
+2025-08-01T10:51:57.367238235ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+(set debug level logging or '-Dmule.verbose.exce...Time Stamp
+2025-08-01T10:51:57.367228391ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+...Time Stamp
+2025-08-01T10:51:36.941131914ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Message : "Cannot coerce String (v1)...Time Stamp
+2025-08-01T07:47:57.761824225ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+java.net.ConnectException: Failed to connect to /1...Time Stamp
+2025-08-01T07:47:57.761842267ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.platform.Platform.connectSock...Time Stamp
+2025-08-01T07:47:57.761828401ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.FastFallbackExchan...Time Stamp
+2025-08-01T07:47:57.761827214ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.ConnectPlan.connec...Time Stamp
+2025-08-01T07:47:57.761825910ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.ConnectPlan.connec...Time Stamp
+2025-08-01T07:47:57.761843464ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.ConnectPlan.connec...Time Stamp
+2025-08-01T07:47:57.761829600ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.concurrent.TaskRunner$runnabl...Time Stamp
+2025-08-01T07:47:57.761837662ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.NioSocketImpl.timedFinish...Time Stamp
+2025-08-01T07:47:57.761838806ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.NioSocketImpl.connect(Nio...Time Stamp
+2025-08-01T07:47:57.761836491ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.Net.pollConnectNow(Net.ja...Time Stamp
+2025-08-01T07:47:57.761835318ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.Net.pollConnect(Native Me...Time Stamp
+2025-08-01T07:47:57.761830731ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.ThreadPoolExecu...Time Stamp
+2025-08-01T07:47:57.761831878ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.ThreadPoolExecu...Time Stamp
+2025-08-01T07:47:57.761839947ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.net.SocksSocketImpl.connect(Soc...Time Stamp
+2025-08-01T07:47:57.761841120ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.net.Socket.connect(Socket.java:...Time Stamp
+2025-08-01T07:47:57.761833013ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.lang.Thread.run(Thread.java:840...Time Stamp
+2025-08-01T07:47:57.761844633ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+... 6 moreTime Stamp
+2025-08-01T07:47:57.761811850ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[otel.javaagent 2025-08-01 07:47:56:589 +0000] [Ok...Time Stamp
+2025-08-01T07:47:57.761834171ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+Caused by: java.net.ConnectException: Connection r...Time Stamp
+2025-08-01T00:12:35.581221713ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.service.scheduler@1.9.7/org.mule.serv...Time Stamp
+2025-08-01T00:12:35.581220505ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.service.scheduler@1.9.7/org.mule.serv...Time Stamp
+2025-08-01T00:12:35.581222875ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.ThreadPoolExecu...Time Stamp
+2025-08-01T00:12:35.581224029ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.ThreadPoolExecu...Time Stamp
+2025-08-01T00:12:35.581219324ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.FutureTask.run(...Time Stamp
+2025-08-01T00:12:35.581218122ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.Executors$Runna...Time Stamp
+2025-08-01T00:12:35.581225188ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.lang.Thread.run(Thread.java:840...Time Stamp
+2025-08-01T00:12:35.581207345ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:35.581216893ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:35.581214306ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:35.581212822ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:35.581215682ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579736854ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+java.lang.IllegalArgumentException: path parameter...Time Stamp
+2025-08-01T00:12:34.579739819ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.service.http@1.11.7/org.mule.service....Time Stamp
+2025-08-01T00:12:34.579773829ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.service.http@1.11.7/org.mule.service....Time Stamp
+2025-08-01T00:12:34.579775110ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.service.http@1.11.7/org.mule.service....Time Stamp
+2025-08-01T00:12:34.579786569ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.service.http@1.11.7/org.mule.service....Time Stamp
+2025-08-01T00:12:34.579787722ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.service.http@1.11.7/org.mule.service....Time Stamp
+2025-08-01T00:12:34.579773876ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.service.http@1.11.7/org.mule.service....Time Stamp
+2025-08-01T00:12:34.579738512ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.runtime.api@1.9.7/org.mule.runtime.ap...Time Stamp
+2025-08-01T00:12:34.579772712ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.ConcurrentHashM...Time Stamp
+2025-08-01T00:12:34.579785369ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579784121ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579776314ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579781722ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579777539ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579779089ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579780456ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579782972ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579763257ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at com.github.benmanes.caffeine/com.github.benman...Time Stamp
+2025-08-01T00:12:34.579773829ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at com.github.benmanes.caffeine/com.github.benman...Time Stamp
+2025-08-01T00:12:34.579773829ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at com.github.benmanes.caffeine/com.github.benman...Time Stamp
+2025-08-01T00:12:34.579764917ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at com.github.benmanes.caffeine/com.github.benman...Time Stamp
+2025-08-01T00:12:34.579773829ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at com.github.benmanes.caffeine/com.github.benman...Time Stamp
+2025-08-01T00:12:34.579773829ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+####################Logs -Mule test server-🕒 Last 12h-🔽 All Levels-All Sources####################
+
+Time Stamp
+2025-08-01 00:12:34,557Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[processor: ; event: ] org.glassfish.grizzly.filte...Time Stamp
+2025-08-01T10:51:57.367229612ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Trace:Time Stamp
+2025-08-01T10:51:57.367224346ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Message : "Cannot coerce String (v3)...Time Stamp
+2025-08-01T10:51:57.367235883ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+FlowStack : at get-car-by-id-flow(get-...Time Stamp
+Source:
+level:
+UNKNOWNMessage:
+Error type : MULE:EXPRESSIONTime Stamp
+2025-08-01T10:51:57.367233491ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Element DSL : <set-payload value="#[( ...Time Stamp
+2025-08-01T10:51:57.367232236ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Element : get-car-by-id-flow/process...Time Stamp
+2025-08-01T10:51:57.367226963ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+1| ( [ {'id': 1, 'make...Time Stamp
+2025-08-01T10:51:57.367239448ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+**************************************************...Time Stamp
+2025-08-01T10:51:57.367240701ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Time Stamp
+2025-08-01T10:51:57.367230854ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+at anonymous::main (line: 1, column: 245)" evalu...Time Stamp
+2025-08-01T10:51:57.367238235ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+(set debug level logging or '-Dmule.verbose.exce...Time Stamp
+2025-08-01T10:51:57.367228391ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+...Time Stamp
+2025-08-01T10:51:36.941131914ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Message : "Cannot coerce String (v1)...Time Stamp
+2025-08-01T07:47:57.761824225ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+java.net.ConnectException: Failed to connect to /1...Time Stamp
+2025-08-01T07:47:57.761842267ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.platform.Platform.connectSock...Time Stamp
+2025-08-01T07:47:57.761828401ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.FastFallbackExchan...Time Stamp
+2025-08-01T07:47:57.761827214ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.ConnectPlan.connec...Time Stamp
+2025-08-01T07:47:57.761825910ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.ConnectPlan.connec...Time Stamp
+2025-08-01T07:47:57.761843464ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.ConnectPlan.connec...Time Stamp
+2025-08-01T07:47:57.761829600ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.concurrent.TaskRunner$runnabl...Time Stamp
+2025-08-01T07:47:57.761837662ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.NioSocketImpl.timedFinish...Time Stamp
+2025-08-01T07:47:57.761838806ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.NioSocketImpl.connect(Nio...Time Stamp
+2025-08-01T07:47:57.761836491ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.Net.pollConnectNow(Net.ja...Time Stamp
+2025-08-01T07:47:57.761835318ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.Net.pollConnect(Native Me...Time Stamp
+2025-08-01T07:47:57.761830731ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.ThreadPoolExecu...Time Stamp
+2025-08-01T07:47:57.761831878ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.ThreadPoolExecu...Time Stamp
+2025-08-01T07:47:57.761839947ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.net.SocksSocketImpl.connect(Soc...Time Stamp
+2025-08-01T07:47:57.761841120ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.net.Socket.connect(Socket.java:...Time Stamp
+2025-08-01T07:47:57.761833013ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.lang.Thread.run(Thread.java:840...Time Stamp
+2025-08-01T07:47:57.761844633ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+... 6 moreTime Stamp
+2025-08-01T07:47:57.761811850ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[otel.javaagent 2025-08-01 07:47:56:589 +0000] [Ok...Time Stamp
+2025-08-01T07:47:57.761834171ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+Caused by: java.net.ConnectException: Connection r...Time Stamp
+2025-08-01T00:12:35.581221713ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.service.scheduler@1.9.7/org.mule.serv...Time Stamp
+2025-08-01T00:12:35.581220505ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.service.scheduler@1.9.7/org.mule.serv...Time Stamp
+2025-08-01T00:12:35.581222875ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.ThreadPoolExecu...Time Stamp
+2025-08-01T00:12:35.581224029ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.ThreadPoolExecu...Time Stamp
+2025-08-01T00:12:35.581219324ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.FutureTask.run(...Time Stamp
+2025-08-01T00:12:35.581218122ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.Executors$Runna...Time Stamp
+2025-08-01T00:12:35.581225188ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.lang.Thread.run(Thread.java:840...Time Stamp
+2025-08-01T00:12:35.581207345ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:35.581216893ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:35.581214306ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:35.581212822ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:35.581215682ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579736854ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+java.lang.IllegalArgumentException: path parameter...Time Stamp
+2025-08-01T00:12:34.579739819ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.service.http@1.11.7/org.mule.service....Time Stamp
+2025-08-01T00:12:34.579773829ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.service.http@1.11.7/org.mule.service....Time Stamp
+2025-08-01T00:12:34.579775110ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.service.http@1.11.7/org.mule.service....Time Stamp
+2025-08-01T00:12:34.579786569ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.service.http@1.11.7/org.mule.service....Time Stamp
+2025-08-01T00:12:34.579787722ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.service.http@1.11.7/org.mule.service....Time Stamp
+2025-08-01T00:12:34.579773876ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.service.http@1.11.7/org.mule.service....Time Stamp
+2025-08-01T00:12:34.579738512ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at org.mule.runtime.api@1.9.7/org.mule.runtime.ap...Time Stamp
+2025-08-01T00:12:34.579772712ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.ConcurrentHashM...Time Stamp
+2025-08-01T00:12:34.579785369ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579784121ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579776314ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579781722ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579777539ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579779089ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579780456ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579782972ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at grizzly.framework@2.3.36-MULE-028/org.glassfis...Time Stamp
+2025-08-01T00:12:34.579763257ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at com.github.benmanes.caffeine/com.github.benman...Time Stamp
+2025-08-01T00:12:34.579773829ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at com.github.benmanes.caffeine/com.github.benman...Time Stamp
+2025-08-01T00:12:34.579773829ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at com.github.benmanes.caffeine/com.github.benman...Time Stamp
+2025-08-01T00:12:34.579764917ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at com.github.benmanes.caffeine/com.github.benman...Time Stamp
+2025-08-01T00:12:34.579773829ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at com.github.benmanes.caffeine/com.github.benman...Time Stamp
+2025-08-01T00:12:34.579773829ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+####################Logs -Mule test server-🕒 Last 12h-🔽 All Levels-All Sources####################
+
+Time Stamp
+2025-08-01T10:51:57.367229612ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Trace:Time Stamp
+2025-08-01T10:51:57.367224346ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Message : "Cannot coerce String (v3)...Time Stamp
+2025-08-01T10:51:57.367235883ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+FlowStack : at get-car-by-id-flow(get-...Time Stamp
+2025-08-01T10:51:57.367234675ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Error type : MULE:EXPRESSIONTime Stamp
+Source:
+level:
+UNKNOWNMessage:
+Element DSL : <set-payload value="#[( ...Time Stamp
+2025-08-01T10:51:57.367232236ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Element : get-car-by-id-flow/process...Time Stamp
+2025-08-01T10:51:57.367226963ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+1| ( [ {'id': 1, 'make...Time Stamp
+2025-08-01T10:51:57.367239448ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+**************************************************...Time Stamp
+2025-08-01T10:51:57.367240701ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Time Stamp
+2025-08-01T10:51:57.367230854ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+at anonymous::main (line: 1, column: 245)" evalu...Time Stamp
+2025-08-01T10:51:57.367238235ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+(set debug level logging or '-Dmule.verbose.exce...Time Stamp
+2025-08-01T10:51:57.367228391ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+...Time Stamp
+2025-08-01T10:51:36.941131914ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Message : "Cannot coerce String (v1)...Time Stamp
+2025-08-01T07:47:57.761824225ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+java.net.ConnectException: Failed to connect to /1...Time Stamp
+2025-08-01T07:47:57.761842267ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.platform.Platform.connectSock...Time Stamp
+2025-08-01T07:47:57.761828401ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.FastFallbackExchan...Time Stamp
+2025-08-01T07:47:57.761827214ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.ConnectPlan.connec...Time Stamp
+2025-08-01T07:47:57.761825910ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.ConnectPlan.connec...Time Stamp
+2025-08-01T07:47:57.761843464ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.ConnectPlan.connec...Time Stamp
+2025-08-01T07:47:57.761829600ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.concurrent.TaskRunner$runnabl...Time Stamp
+2025-08-01T07:47:57.761837662ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.NioSocketImpl.timedFinish...Time Stamp
+2025-08-01T07:47:57.761838806ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.NioSocketImpl.connect(Nio...Time Stamp
+2025-08-01T07:47:57.761836491ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.Net.pollConnectNow(Net.ja...Time Stamp
+2025-08-01T07:47:57.761835318ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.Net.pollConnect(Native Me...Time Stamp
+2025-08-01T07:47:57.761830731ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.ThreadPoolExecu...Time Stamp
+2025-08-01T07:47:57.761831878ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.ThreadPoolExecu...Time Stamp
+2025-08-01T07:47:57.761839947ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.net.SocksSocketImpl.connect(Soc...Time Stamp
+2025-08-01T07:47:57.761841120ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.net.Socket.connect(Socket.java:...Time Stamp
+2025-08-01T07:47:57.761833013ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.lang.Thread.run(Thread.java:840...Time Stamp
+2025-08-01T07:47:57.761844633ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+... 6 moreTime Stamp
+2025-08-01T07:47:57.761811850ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[otel.javaagent 2025-08-01 07:47:56:589 +0000] [Ok...Time Stamp
+2025-08-01T07:47:57.761834171ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+Caused by: java.net.ConnectException: Connection r...Time Stamp
+2025-08-01 10:51:57,366Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+ERRORMessage:
+[[MuleRuntime].uber.04: [democars].get-car-by-id-f...Time Stamp
+2025-08-01 10:51:53,158Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+ERRORMessage:
+[[MuleRuntime].uber.04: [democars].get-car-by-id-f...Time Stamp
+2025-08-01 10:51:45,611Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+ERRORMessage:
+[[MuleRuntime].uber.04: [democars].get-car-by-id-f...Time Stamp
+2025-08-01 10:51:34,503Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+ERRORMessage:
+[[MuleRuntime].uber.04: [democars].get-car-by-id-f...Time Stamp
+####################Logs -Mule test server-🕒 Last 12h-🔽 All Levels-All Sources####################
+
+Time Stamp
+2025-08-01T10:51:57.367229612ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Trace:Time Stamp
+2025-08-01T10:51:57.367224346ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Message : "Cannot coerce String (v3)...Time Stamp
+2025-08-01T10:51:57.367235883ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+FlowStack : at get-car-by-id-flow(get-...Time Stamp
+2025-08-01T10:51:57.367234675ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Error type : MULE:EXPRESSIONTime Stamp
+Source:
+level:
+UNKNOWNMessage:
+Element DSL : <set-payload value="#[( ...Time Stamp
+2025-08-01T10:51:57.367232236ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Element : get-car-by-id-flow/process...Time Stamp
+2025-08-01T10:51:57.367226963ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+1| ( [ {'id': 1, 'make...Time Stamp
+2025-08-01T10:51:57.367239448ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+**************************************************...Time Stamp
+2025-08-01T10:51:57.367240701ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Time Stamp
+2025-08-01T10:51:57.367230854ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+at anonymous::main (line: 1, column: 245)" evalu...Time Stamp
+2025-08-01T10:51:57.367238235ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+(set debug level logging or '-Dmule.verbose.exce...Time Stamp
+2025-08-01T10:51:57.367228391ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+...Time Stamp
+2025-08-01T10:51:36.941131914ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Message : "Cannot coerce String (v1)...Time Stamp
+2025-08-01T07:47:57.761824225ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+java.net.ConnectException: Failed to connect to /1...Time Stamp
+2025-08-01T07:47:57.761842267ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.platform.Platform.connectSock...Time Stamp
+2025-08-01T07:47:57.761828401ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.FastFallbackExchan...Time Stamp
+2025-08-01T07:47:57.761827214ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.ConnectPlan.connec...Time Stamp
+2025-08-01T07:47:57.761825910ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.ConnectPlan.connec...Time Stamp
+2025-08-01T07:47:57.761843464ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.ConnectPlan.connec...Time Stamp
+2025-08-01T07:47:57.761829600ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.concurrent.TaskRunner$runnabl...Time Stamp
+2025-08-01T07:47:57.761837662ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.NioSocketImpl.timedFinish...Time Stamp
+2025-08-01T07:47:57.761838806ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.NioSocketImpl.connect(Nio...Time Stamp
+2025-08-01T07:47:57.761836491ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.Net.pollConnectNow(Net.ja...Time Stamp
+2025-08-01T07:47:57.761835318ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.Net.pollConnect(Native Me...Time Stamp
+2025-08-01T07:47:57.761830731ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.ThreadPoolExecu...Time Stamp
+2025-08-01T07:47:57.761831878ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.ThreadPoolExecu...Time Stamp
+2025-08-01T07:47:57.761839947ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.net.SocksSocketImpl.connect(Soc...Time Stamp
+2025-08-01T07:47:57.761841120ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.net.Socket.connect(Socket.java:...Time Stamp
+2025-08-01T07:47:57.761833013ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.lang.Thread.run(Thread.java:840...Time Stamp
+2025-08-01T07:47:57.761844633ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+... 6 moreTime Stamp
+2025-08-01T07:47:57.761811850ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[otel.javaagent 2025-08-01 07:47:56:589 +0000] [Ok...Time Stamp
+2025-08-01T07:47:57.761834171ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+Caused by: java.net.ConnectException: Connection r...Time Stamp
+2025-08-01 10:51:57,366Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+ERRORMessage:
+[[MuleRuntime].uber.04: [democars].get-car-by-id-f...Time Stamp
+2025-08-01 10:51:53,158Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+ERRORMessage:
+[[MuleRuntime].uber.04: [democars].get-car-by-id-f...Time Stamp
+2025-08-01 10:51:45,611Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+ERRORMessage:
+[[MuleRuntime].uber.04: [democars].get-car-by-id-f...Time Stamp
+2025-08-01 10:51:34,503Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+ERRORMessage:
+[[MuleRuntime].uber.04: [democars].get-car-by-id-f...Time Stamp
+####################Logs -Mule test server-🕒 Last 12h-🔽 All Levels-All Sources####################
+
+Time Stamp
+2025-08-01T10:51:57.367229612ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Trace:Time Stamp
+2025-08-01T10:51:57.367224346ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Message : "Cannot coerce String (v3)...Time Stamp
+2025-08-01T10:51:57.367235883ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+FlowStack : at get-car-by-id-flow(get-...Time Stamp
+2025-08-01T10:51:57.367234675ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Error type : MULE:EXPRESSIONTime Stamp
+Source:
+level:
+UNKNOWNMessage:
+Element DSL : <set-payload value="#[( ...Time Stamp
+2025-08-01T10:51:57.367232236ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Element : get-car-by-id-flow/process...Time Stamp
+2025-08-01T10:51:57.367226963ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+1| ( [ {'id': 1, 'make...Time Stamp
+2025-08-01T10:51:57.367239448ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+**************************************************...Time Stamp
+2025-08-01T10:51:57.367240701ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Time Stamp
+2025-08-01T10:51:57.367230854ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+at anonymous::main (line: 1, column: 245)" evalu...Time Stamp
+2025-08-01T10:51:57.367238235ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+(set debug level logging or '-Dmule.verbose.exce...Time Stamp
+2025-08-01T10:51:57.367228391ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+...Time Stamp
+2025-08-01T10:51:36.941131914ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+UNKNOWNMessage:
+Message : "Cannot coerce String (v1)...Time Stamp
+2025-08-01T07:47:57.761824225ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+java.net.ConnectException: Failed to connect to /1...Time Stamp
+2025-08-01T07:47:57.761842267ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.platform.Platform.connectSock...Time Stamp
+2025-08-01T07:47:57.761828401ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.FastFallbackExchan...Time Stamp
+2025-08-01T07:47:57.761827214ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.ConnectPlan.connec...Time Stamp
+2025-08-01T07:47:57.761825910ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.ConnectPlan.connec...Time Stamp
+2025-08-01T07:47:57.761843464ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.connection.ConnectPlan.connec...Time Stamp
+2025-08-01T07:47:57.761829600ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at okhttp3.internal.concurrent.TaskRunner$runnabl...Time Stamp
+2025-08-01T07:47:57.761837662ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.NioSocketImpl.timedFinish...Time Stamp
+2025-08-01T07:47:57.761838806ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.NioSocketImpl.connect(Nio...Time Stamp
+2025-08-01T07:47:57.761836491ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.Net.pollConnectNow(Net.ja...Time Stamp
+2025-08-01T07:47:57.761835318ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/sun.nio.ch.Net.pollConnect(Native Me...Time Stamp
+2025-08-01T07:47:57.761830731ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.ThreadPoolExecu...Time Stamp
+2025-08-01T07:47:57.761831878ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.util.concurrent.ThreadPoolExecu...Time Stamp
+2025-08-01T07:47:57.761839947ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.net.SocksSocketImpl.connect(Soc...Time Stamp
+2025-08-01T07:47:57.761841120ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.net.Socket.connect(Socket.java:...Time Stamp
+2025-08-01T07:47:57.761833013ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+at java.base/java.lang.Thread.run(Thread.java:840...Time Stamp
+2025-08-01T07:47:57.761844633ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+... 6 moreTime Stamp
+2025-08-01T07:47:57.761811850ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+[otel.javaagent 2025-08-01 07:47:56:589 +0000] [Ok...Time Stamp
+2025-08-01T07:47:57.761834171ZSource:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/mule_ee.loglevel:
+UNKNOWNMessage:
+Caused by: java.net.ConnectException: Connection r...Time Stamp
+2025-08-01 10:51:57,366Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+ERRORMessage:
+[[MuleRuntime].uber.04: [democars].get-car-by-id-f...Time Stamp
+2025-08-01 10:51:53,158Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+ERRORMessage:
+[[MuleRuntime].uber.04: [democars].get-car-by-id-f...Time Stamp
+2025-08-01 10:51:45,611Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+ERRORMessage:
+[[MuleRuntime].uber.04: [democars].get-car-by-id-f...Time Stamp
+2025-08-01 10:51:34,503Source:
+/home/ubuntu/mule-enterprise-standalone-4.9.7/logs/democars.loglevel:
+ERRORMessage:
+[[MuleRuntime].uber.04: [democars].get-car-by-id-f...####################Logs -Mule test server-🕒 Last 1h-🔴 Error-All Sources####################
+
+####################Logs -Mule test server-🕒 Last 1h-🔴 Error-All Sources####################
+

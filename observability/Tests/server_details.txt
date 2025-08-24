@@ -1,0 +1,98 @@
+
+####################################################################################################
+Server Name: Mule test server
+--------------------------------------------------
+
+******************** Server Metrics ********************
+
+CPU:
+22.69 %
+(4 cores)
+Memory:
+91.74%
+(14.33 GB/15.62 GB)
+Disk:
+69.95%
+(67.73 GB/ 96.83 GB)
+Network:
+ms
+(ms)
+
+******************** API Metrics ********************
+
+Request Volume:
+30
+Failed Request:
+14
+4xx Errors:
+13
+5xx Errors:
+1
+Success Rate:
+53.33%
+
+******************** Log Monitoring ********************
+Total Logs:
+5
+Info:
+0
+Warn:
+2
+Error:
+3
+Debug:
+0
+
+####################################################################################################
+Server Name: test Kubenetes
+--------------------------------------------------
+
+******************** Server Metrics ********************
+
+CPU:
+7.28 %
+(8 cores)
+Memory:
+70.95%
+(21.98 GB/30.98 GB)
+Disk:
+39.98%
+(510.68 GB/ 1277.37 GB)
+Network:
+ms
+(0.956ms)
+
+******************** API Metrics ********************
+
+Request Volume:
+30
+Failed Request:
+14
+4xx Errors:
+13
+5xx Errors:
+1
+Success Rate:
+53.33%
+
+******************** Log Monitoring ********************
+Total Logs:
+5
+Info:
+5
+Warn:
+0
+Error:
+0
+Debug:
+0
+******************** JVM-Metrics ********************Heap Usage (%):
+%
+GC Frequency (Hz):
+0.00
+Thread Count
+
+CPU Usage (%)
+
+Memory Usage (GB):
+0.00GB

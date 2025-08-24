@@ -1,0 +1,63 @@
+'*'*30
+Desired External_tool - testing Details
+
+'*'*30
+Desired External_tool - testing Details
+
+Basic configuration Details:
+Integration Name: - testing
+Tool Type: - Splunk
+Environment: - Production
+
+Connection configuration Details:
+Host: - 1.2.3.4
+Port: - 3030
+Protocol: - http
+Auth Type: - basic
+Timeout (ms): - 30000
+
+Metadata Details:
+Created: - Aug 12, 2025, 6:11:46 AM
+Last Updated: - 
+Status: - Active
+
+******************************
+Desired External_tool - testing Details
+
+Basic configuration Details:
+Integration Name: - testing
+Tool Type: - Splunk
+Environment: - Production
+
+Connection configuration Details:
+Host: - 1.2.3.4
+Port: - 3030
+Protocol: - http
+Auth Type: - basic
+Timeout (ms): - 30000
+
+Metadata Details:
+Created: - Aug 12, 2025, 6:11:46 AM
+Last Updated: - 
+Status: - Active
+
+****************************************************************************************************
+Desired External_tool - Production AWS CloudWatch Details
+
+Basic configuration Details:
+Integration Name: - Production AWS CloudWatch
+Tool Type: - AWS CloudWatch
+Environment: - Production
+
+Connection configuration Details:
+Host: - localhost
+Port: - 9200
+Protocol: - http
+Auth Type: - basic
+Timeout (ms): - 30000
+
+Metadata Details:
+Created: - Aug 6, 2025, 1:06:55 PM
+Last Updated: - 
+Status: - Active
+

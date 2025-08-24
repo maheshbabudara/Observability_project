@@ -1,0 +1,10 @@
+class Dash:
+    dashboard_menu=('xpath','//h1[contains(text(),"Dashboard")]')
+    total_servers_heading=('xpath','//h1[contains(text(),"Total Servers")]')
+    total_servers_value=('xpath','//h1[contains(text(),"Total Servers")]/following-sibling::h3')
+    API_Calls_heading=('xpath','//h1[contains(text(),"API Calls (24h)")]')
+    API_Calls_value=('xpath','//h1[contains(text(),"API Calls (24h)")]/following-sibling::h3')
+    Total_Logs_heading=('xpath','//h1[contains(text(),"Total Logs")]')
+    Total_Logs_value=('xpath','//h1[contains(text(),"Total Logs")]/following-sibling::h2')
+    Alerts_heading=('xpath','//div[@class="DataOverviewContainer"]//h1[contains(text(),"Alerts")]')
+    Alerts_value=('xpath','//div[@class="DataOverviewContainer"]//h1[contains(text(),"Alerts")]/following-sibling::h2')

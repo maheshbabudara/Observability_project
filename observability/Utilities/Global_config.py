@@ -1,0 +1,68 @@
+class metric:
+    global_config=('xpath','//div[@class="MenuListContainer"]//h1[contains(text(),"Global Configuration")]')
+    alert_type=('xpath','//label[starts-with(text(),"Alert Type *")]/following-sibling::select[@id="type"]')
+    alert_details=('xpath','//label[starts-with(text(),"Alert Details *")]/following-sibling::textarea[@id="alertDetails"]')
+    alert_property_name=('xpath','//label[starts-with(text(),"Name *")]/following-sibling::select[@id="name"]')
+    severity=('xpath','//label[starts-with(text(),"Severity")]/following-sibling::select[@id="severity"]')
+    category=('xpath','//label[starts-with(text(),"Category")]/following-sibling::select[@id="category"]')
+    threshold=('xpath','//label[starts-with(text(),"Threshold")]/following-sibling::input[@id="threshold"]')
+    evalution_period=('xpath','//label[starts-with(text(),"Evaluation Period")]/following-sibling::select[@id="evaluationPeriod"]')
+    app_name=('xpath','//label[starts-with(text(),"Application Name")]/following-sibling::input[@id="applicationName"]')
+    app_id=('xpath','//label[starts-with(text(),"Application ID")]/following-sibling::input[@id="applicationId"]')
+    phn=('xpath','//label[starts-with(text(),"Phone Number")]/following-sibling::input[@id="receiverPhoneNumber"]')
+    trigger_count=('xpath','//label[starts-with(text(),"Trigger Count")]/following-sibling::input[@id="triggerCount"]')
+    receiver_emails=('xpath','//label[starts-with(text(),"Receiver Emails")]/following-sibling::textarea[@id="receiverEmails"]')
+    server=('xpath','//label[starts-with(text(),"Server")]/following-sibling::select[@id="serverSelect"]')
+    serverip=('xpath','//label[starts-with(text(),"Server IP")]/following-sibling::input[@id="serverIp"]')
+    server_name=('xpath','//label[starts-with(text(),"Server Name")]/following-sibling::input[@id="serverName"]')
+    create_btn=('xpath','//button[contains(text(),"Create Global Alert")]')
+
+
+class API:
+    global_config=('xpath','//div[@class="MenuListContainer"]//h1[contains(text(),"Global Configuration")]')
+    alert_type=('xpath','//label[starts-with(text(),"Alert Type *")]/following-sibling::select[@id="type"]')
+    alert_details=('xpath','//label[starts-with(text(),"Alert Details *")]/following-sibling::textarea[@id="alertDetails"]')
+    alert_property_name=('xpath','//label[starts-with(text(),"Name *")]/following-sibling::select[@id="name"]')
+    severity=('xpath','//label[starts-with(text(),"Severity")]/following-sibling::select[@id="severity"]')
+    category=('xpath','//label[starts-with(text(),"Category")]/following-sibling::select[@id="category"]')
+    threshold=('xpath','//label[starts-with(text(),"Threshold")]/following-sibling::input[@id="threshold"]')
+    evalution_period=('xpath','//label[starts-with(text(),"Evaluation Period")]/following-sibling::select[@id="evaluationPeriod"]')
+
+    api_appname=('xpath','//label[text()="App Name"]/following-sibling::input[@id="app_name"]')
+    api_path=('xpath','//label[text()="API Path"]/following-sibling::input[@id="api_path"]')
+    status_code=('xpath','//label[text()="Status Code"]/following-sibling::input[@id="status_code"]')
+
+    app_name=('xpath','//label[starts-with(text(),"Application Name")]/following-sibling::input[@id="applicationName"]')
+    app_id=('xpath','//label[starts-with(text(),"Application ID")]/following-sibling::input[@id="applicationId"]')
+    phn=('xpath','//label[starts-with(text(),"Phone Number")]/following-sibling::input[@id="receiverPhoneNumber"]')
+    trigger_count=('xpath','//label[starts-with(text(),"Trigger Count")]/following-sibling::input[@id="triggerCount"]')
+    receiver_emails=('xpath','//label[starts-with(text(),"Receiver Emails")]/following-sibling::textarea[@id="receiverEmails"]')
+    server=('xpath','//label[starts-with(text(),"Server")]/following-sibling::select[@id="serverSelect"]')
+    serverip=('xpath','//label[starts-with(text(),"Server IP")]/following-sibling::input[@id="serverIp"]')
+    server_name=('xpath','//label[starts-with(text(),"Server Name")]/following-sibling::input[@id="serverName"]')
+    create_btn=('xpath','//button[contains(text(),"Create Global Alert")]')
+
+
+class application:
+    global_config=('xpath','//div[@class="MenuListContainer"]//h1[contains(text(),"Global Configuration")]')
+    alert_type=('xpath','//label[starts-with(text(),"Alert Type *")]/following-sibling::select[@id="type"]')
+    alert_details=('xpath','//label[starts-with(text(),"Alert Details *")]/following-sibling::textarea[@id="alertDetails"]')
+    alert_property_name=('xpath','//label[starts-with(text(),"Name *")]/following-sibling::select[@id="name"]')
+    severity=('xpath','//label[starts-with(text(),"Severity")]/following-sibling::select[@id="severity"]')
+    category=('xpath','//label[starts-with(text(),"Category")]/following-sibling::select[@id="category"]')
+    threshold=('xpath','//label[starts-with(text(),"Threshold")]/following-sibling::input[@id="threshold"]')
+    evalution_period=('xpath','//label[starts-with(text(),"Evaluation Period")]/following-sibling::select[@id="evaluationPeriod"]')
+
+    application_name=('xpath','//label[text()="App Name"]/following-sibling::input[@id="app_name"]')
+    latency_bucket=('xpath','//label[text()="Latency Bucket"]/following-sibling::input[@id="latency_bucket"]')
+
+    app_name=('xpath','//label[starts-with(text(),"Application Name")]/following-sibling::input[@id="applicationName"]')
+    app_id=('xpath','//label[starts-with(text(),"Application ID")]/following-sibling::input[@id="applicationId"]')
+    phn=('xpath','//label[starts-with(text(),"Phone Number")]/following-sibling::input[@id="receiverPhoneNumber"]')
+    trigger_count=('xpath','//label[starts-with(text(),"Trigger Count")]/following-sibling::input[@id="triggerCount"]')
+    receiver_emails=('xpath','//label[starts-with(text(),"Receiver Emails")]/following-sibling::textarea[@id="receiverEmails"]')
+    server=('xpath','//label[starts-with(text(),"Server")]/following-sibling::select[@id="serverSelect"]')
+    serverip=('xpath','//label[starts-with(text(),"Server IP")]/following-sibling::input[@id="serverIp"]')
+    server_name=('xpath','//label[starts-with(text(),"Server Name")]/following-sibling::input[@id="serverName"]')
+    create_btn=('xpath','//button[contains(text(),"Create Global Alert")]')
+

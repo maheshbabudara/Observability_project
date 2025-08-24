@@ -1,0 +1,36 @@
+########################################Log Management Details for Mule second server-🕒 Last 12h-🔽 All Levels-All Sources########################################
+
+INFO:
+0
+WARNING:
+0:
+ERROR:
+4:
+DEBUG:
+0:
+TOTAL LOGS:
+4:
+####################Log Management Details for-Mule second server-🕒 Last 12h-🔽 All Levels-All Sources####################
+
+INFO:
+0
+WARNING:
+2:
+ERROR:
+4:
+DEBUG:
+0:
+TOTAL LOGS:
+6:
+####################Log Management Details -Mule second server-🕒 Last 12h-🔽 All Levels-All Sources####################
+
+INFO:
+0
+WARNING:
+2:
+ERROR:
+4:
+DEBUG:
+0:
+TOTAL LOGS:
+6:
