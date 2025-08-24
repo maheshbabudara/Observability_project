@@ -1,0 +1,9 @@
+selenium~=4.30.0
+trio-websocket~=0.12.2
+pip~=23.2.1
+attrs~=25.3.0
+PySocks~=1.7.1
+pytest~=8.3.5
+webdriver-manager~=4.0.2
+allure-python-commons~=2.13.5
+openpyxl~=3.2.0b1
