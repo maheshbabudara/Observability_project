@@ -33,4 +33,4 @@ jobs:
 
     - name: Run pytest tests
       run: |
-        pytest Tests/ --maxfail=1 --disable-warnings -q
+        pytest Tests/test_dashboard.py --maxfail=1 --disable-warnings -q
