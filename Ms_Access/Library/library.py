@@ -12,6 +12,7 @@ class Base:
         self.driver=driver
         self.action=ActionChains(self.driver)
 
+
     #Generic methods:
     def search_element(self,locator):
         """Finding Unique web element"""
