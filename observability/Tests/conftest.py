@@ -104,31 +104,68 @@ def login(request):
     driver.quit()
 
 
+#Commented to CI/CD EXECUTION SETUP:
+# @pytest.fixture()
+# def server():
+#     username = "adminmpulse@gmail.com"
+#     password = "Admin@123"
+#     option=ChromeOptions()
+#     option.add_argument("--disable-notifications")
+#     # option.add_argument('--headless')
+#     option.add_experimental_option("detach",True)
+#     preferences={"download.default_directory":location,"plugins.always_open_pdf_externally":True}
+#     option.add_experimental_option("prefs",preferences)
+#     option.add_argument("--allow-running-insecure-content")
+#     option.add_argument("--disable-web-security")
+#     server=WebDriver(options=option)
+#     server.get("http://13.202.80.237:8080/mpulseSSO/#/")
+#     server.implicitly_wait(10)
+#     server.maximize_window()
+#     server.find_element("xpath", '//input[@placeholder="Enter your email"]').send_keys(username)
+#     server.find_element("xpath", '//input[@placeholder="Enter your password"]').send_keys(password)
+#     server.find_element("xpath", "//button[contains(text(),'Sign In')]").click()
+#     # server.find_element('xpath', '//img[contains(@src,"assets/M-Pulse")]/../ancestor::div[@class="ant-col ant-col-8 ng-star-inserted"]').click()
+#     server.find_element('xpath',
+#                         '//*[@ng-reflect-title="OBSERVABILITY"]').click()
+#     sleep(1)
+#     yield server
+#     server.quit()
+
+
+# from selenium.webdriver import Chrome, ChromeOptions
+# import tempfile
+# import pytest
+# import os
+
 @pytest.fixture()
 def server():
     username = "adminmpulse@gmail.com"
     password = "Admin@123"
-    option=ChromeOptions()
+
+    location = os.path.abspath("downloads")
+    os.makedirs(location, exist_ok=True)
+
+    option = ChromeOptions()
     option.add_argument("--disable-notifications")
-    # option.add_argument('--headless')
-    option.add_experimental_option("detach",True)
-    preferences={"download.default_directory":location,"plugins.always_open_pdf_externally":True}
-    option.add_experimental_option("prefs",preferences)
+    option.add_argument("--headless=new")
+    option.add_argument("--no-sandbox")
+    option.add_argument("--disable-dev-shm-usage")
     option.add_argument("--allow-running-insecure-content")
     option.add_argument("--disable-web-security")
-    server=WebDriver(options=option)
-    server.get("http://13.202.80.237:8080/mpulseSSO/#/")
-    server.implicitly_wait(10)
-    server.maximize_window()
-    server.find_element("xpath", '//input[@placeholder="Enter your email"]').send_keys(username)
-    server.find_element("xpath", '//input[@placeholder="Enter your password"]').send_keys(password)
-    server.find_element("xpath", "//button[contains(text(),'Sign In')]").click()
-    # server.find_element('xpath', '//img[contains(@src,"assets/M-Pulse")]/../ancestor::div[@class="ant-col ant-col-8 ng-star-inserted"]').click()
-    server.find_element('xpath',
-                        '//*[@ng-reflect-title="OBSERVABILITY"]').click()
-    sleep(1)
-    yield server
-    server.quit()
+
+    preferences = {
+        "download.default_directory": location,
+        "plugins.always_open_pdf_externally": True
+    }
+    option.add_experimental_option("prefs", preferences)
+
+    # ✅ Avoid user-data-dir conflict
+    option.add_argument(f"--user-data-dir={tempfile.mkdtemp()}")
+
+    driver = WebDriver(options=option)
+    yield driver
+    driver.quit()
+
 
 @pytest.fixture()
 def global_config():
