@@ -13,6 +13,8 @@ class Dashboard(Base):
 
             #Total servers:
             f.write(f"{'*'*20} Servers {'*'*20}\n")
+
+
             total_servers_heading=self.search_element(Dash.total_servers_heading)
             f.write(f"{total_servers_heading.text}:\n")
             total_servers_value=self.search_element(Dash.total_servers_value)
@@ -20,7 +22,7 @@ class Dashboard(Base):
 
 
             #API Calls:
-            f.write(f'{'*' * 20} API {'*' * 20}\n')
+            f.write(f"{'*' * 20} API {'*' * 20}\n")
             api_calls_heading=self.search_element(Dash.API_Calls_heading)
             f.write(f"{api_calls_heading.text}:\n")
             api_calls_value=self.search_element(Dash.API_Calls_value)
