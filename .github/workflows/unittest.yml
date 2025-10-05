@@ -33,4 +33,6 @@ jobs:
 
     - name: Run pytest tests
       run: |
-        pytest Tests/test_dashboard.py --maxfail=1 --disable-warnings -q
+        pytest observability/Tests/test_dashboard.py --maxfail=1 --disable-warnings -q
+#        pytest tests/test_dashboard.py --maxfail=1 --disable-warnings -q
+
