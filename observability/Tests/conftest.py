@@ -162,9 +162,20 @@ def server():
     # ✅ Avoid user-data-dir conflict
     option.add_argument(f"--user-data-dir={tempfile.mkdtemp()}")
 
-    driver = WebDriver(options=option)
-    yield driver
-    driver.quit()
+    server = WebDriver(options=option)
+    server.get("http://13.202.80.237:8080/mpulseSSO/#/")
+    server.implicitly_wait(10)
+    server.maximize_window()
+    server.find_element("xpath", '//input[@placeholder="Enter your email"]').send_keys(username)
+    server.find_element("xpath", '//input[@placeholder="Enter your password"]').send_keys(password)
+    server.find_element("xpath", "//button[contains(text(),'Sign In')]").click()
+    # server.find_element('xpath', '//img[contains(@src,"assets/M-Pulse")]/../ancestor::div[@class="ant-col ant-col-8 ng-star-inserted"]').click()
+    server.find_element('xpath',
+                            '//*[@ng-reflect-title="OBSERVABILITY"]').click()
+    sleep(1)
+
+    yield server
+    server.quit()
 
 
 @pytest.fixture()
