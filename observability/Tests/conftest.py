@@ -1,4 +1,6 @@
 import os
+import uuid
+
 location=os.getcwd()
 import tempfile
 from selenium.webdriver.chrome.options import Options as ChromeOptions
@@ -145,6 +147,10 @@ def server():
     location = os.path.abspath("downloads")
     os.makedirs(location, exist_ok=True)
 
+    unique_dir = os.path.join(tempfile.gettempdir(), f"chrome_profile_{uuid.uuid4().hex}")
+    os.makedirs(unique_dir, exist_ok=True)
+
+
     option = ChromeOptions()
     option.add_argument("--disable-notifications")
     # option.add_argument("--headless=new")
@@ -152,6 +158,9 @@ def server():
     # option.add_argument("--disable-dev-shm-usage")
     option.add_argument("--allow-running-insecure-content")
     option.add_argument("--disable-web-security")
+
+    option.add_argument(f"--user-data-dir={unique_dir}")
+    option.add_argument("--disable-dev-shm-usage")
 
     preferences = {
         "download.default_directory": location,
