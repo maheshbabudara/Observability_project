@@ -153,7 +153,7 @@ def server():
 
     option = ChromeOptions()
     option.add_argument("--disable-notifications")
-    # option.add_argument("--headless=new")
+    option.add_argument("--headless=new")
     option.add_argument("--no-sandbox")
     # option.add_argument("--disable-dev-shm-usage")
     option.add_argument("--allow-running-insecure-content")
